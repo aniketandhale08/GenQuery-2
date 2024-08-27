@@ -22,7 +22,7 @@ Welcome to GenQuery! This project aims to simplify data access and manipulation 
 
 ## Built With
 
-![Tools](https://github.com/user-attachments/assets/eaecc4b7-7f01-48a7-b7d8-004e75fa1fbb)
+![Tools](https://github.com/user-attachments/assets/ea5ecce3-b19f-4231-89c8-d867dc0a9601)
 
 - **Languages:** Python
 - **Frameworks:** Streamlit
