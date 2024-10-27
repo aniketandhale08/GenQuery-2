@@ -44,7 +44,7 @@ Welcome to GenQuery! This project aims to simplify data access and manipulation 
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/aniketandhale08/GenQuery-2.0
+    git clone https://github.com/aniketandhale08/GenQuery-2
     ```
     ```bash
     cd GenQuery-2.0
