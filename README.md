@@ -1,5 +1,5 @@
 
-# GenQuery 2.0: Simplify Your SQL Journey
+# GenQuery 2.0: Simplifying SQL for Everyone with AI-Powered Natural Language Queries and Seamless Data Visualization.
 
 Welcome to GenQuery! This project aims to simplify data access and manipulation in SQL databases through natural language commands, educational examples, and powerful AI integration.
 
